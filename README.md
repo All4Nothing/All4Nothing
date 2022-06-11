@@ -1,5 +1,5 @@
 ### Hi there 👋
-![All4Nothing's GitHub stats](https://github-readme-stats.vercel.app/api?username=All4Nothing&show_icons=true&theme=radical)
+![All4Nothing's GitHub stats](https://github-readme-stats.vercel.app/api?username=All4Nothing&show_icons=true&theme=radical)]
 <!--
 **All4Nothing/All4Nothing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
