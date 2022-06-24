@@ -1,7 +1,7 @@
 ### Hi there 👋
 ![All4Nothing's GitHub stats](https://github-readme-stats.vercel.app/api?username=All4Nothing&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=All4Nothing&layout=Demo&theme=onedark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=All4Nothing&layout=compact&theme=onedark)
 
 
 
