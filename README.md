@@ -6,7 +6,6 @@
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=NumPy&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/></a><br>
   <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white"/></a>
   
   ![All4Nothing's GitHub stats](https://github-readme-stats.vercel.app/api?username=All4Nothing&show_icons=true&theme=radical)
 
